@@ -1,0 +1,9 @@
+str='gagan'
+a=str.upper()
+b=str.title()
+c=str.lower()
+d=str.isalpha()
+print(a)
+print(b)
+print(c)
+print(d)
